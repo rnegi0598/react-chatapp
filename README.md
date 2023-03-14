@@ -1,8 +1,29 @@
-# Getting Started with Create React App
+# Chat Application
+The chat application is built using ReactJs and firebase. It allows users to create accounts, login, and chat with other users in real-time.
+## Screenshots
+### Register user
+![Screenshot from 2023-03-14 19-18-48](https://user-images.githubusercontent.com/45715802/225026527-b0442cae-679d-4c2a-b6c2-289a3574eec0.png)
+### Chat Page
+![Screenshot from 2023-03-14 19-27-49](https://user-images.githubusercontent.com/45715802/225026656-64f25728-20d6-42a6-aa4a-bc94ee882012.png)
+
+## Features
+This chat application includes the following features:
+- User authentication: Users can create accounts and log in using their email and password.
+- Real-time messaging: Messages are sent and received in real-time using Firebase's real-time database.
+- User can send text messages and image.
+- User search: Users can search for other users by their name and start a chat with them.
+- Chat history: Users can view their chat history with other users.
+
+
+
+
+---
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+### Available Scripts
 
 In the project directory, you can run:
 
